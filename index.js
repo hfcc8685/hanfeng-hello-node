@@ -1,3 +1,3 @@
-var helloworld = require('./helloworld');
+var helloworld = require('./helloworld')
 
-console.log(helloworld.say());
+console.log(helloworld.say())
