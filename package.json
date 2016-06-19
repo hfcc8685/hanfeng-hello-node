@@ -18,5 +18,8 @@
   "homepage": "https://github.com/hfcc8685/hanfeng-hello-node#readme",
   "devDependencies": {
     "ava": "^0.15.2"
+  },
+  "dependencies": {
+    "debug": "^2.2.0"
   }
 }
