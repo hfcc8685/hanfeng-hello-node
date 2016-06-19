@@ -1,3 +1,3 @@
 var helloworld = require('./helloworld');
 
-console.log(helloworld.message);
+console.log(helloworld.say());

@@ -1,3 +1,6 @@
 module.exports = {
-    message: "hello World."
+    say: function (){
+        return  "hello world!";
+    }
 }
+
